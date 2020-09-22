@@ -1,0 +1,4 @@
+<animate attributeType="CSS" attributeName="opacity" 
+values="0; 1; 1; 0; 0; 0; 0; 0; 0" 
+keyTimes="0;.06;.25;.31;.5;.56;.75;.81;1" 
+dur="8s" repeatCount="indefinite"></animate>
